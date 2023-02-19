@@ -41,3 +41,12 @@
 2023-02-18 21:56:41.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
 2023-02-18 21:56:41.651 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
 2023-02-18 21:56:42.533 [info] > git status -z -uall [886ms] (cancelled)
+2023-02-18 21:57:41.606 [info] > git check-ignore -v -z --stdin [7ms]
+2023-02-18 21:57:41.607 [info] > git check-ignore -v -z --stdin [6ms]
+2023-02-18 21:58:41.127 [info] > git show --textconv :projectPW.html [7ms]
+2023-02-18 21:58:41.128 [info] > git ls-files --stage -- /home/franko/projectPW.html [2ms]
+2023-02-18 21:58:41.132 [info] > git cat-file -s a6089e9ea5d04a6ab8b13dc427114a0d2e9323e9 [1ms]
+2023-02-18 21:59:41.159 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n335 -- /home/franko/projectPW.html [2ms]
+2023-02-18 21:59:41.159 [info] fatal: your current branch 'master' does not have any commits yet
+2023-02-18 22:01:41.606 [info] > git check-ignore -v -z --stdin [4ms]
+2023-02-18 22:04:41.619 [info] > git check-ignore -v -z --stdin [7ms]
