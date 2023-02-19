@@ -1,0 +1,24 @@
+2023-02-17 23:44:46.343 [info] 
+
+
+
+
+2023-02-17 23:44:46.362 [info] Extension host agent started.
+2023-02-17 23:44:46.550 [info] [127.0.0.1][6cd3bf0a][ManagementConnection] New connection established.
+2023-02-17 23:44:46.663 [info] [127.0.0.1][9a381152][ManagementConnection] New connection established.
+2023-02-17 23:44:47.026 [info] [127.0.0.1][fd776477][ExtensionHostConnection] New connection established.
+2023-02-17 23:44:47.030 [info] [127.0.0.1][fd776477][ExtensionHostConnection] <204> Launched Extension Host Process.
+2023-02-17 23:44:47.149 [info] [127.0.0.1][04c9a77b][ExtensionHostConnection] New connection established.
+2023-02-17 23:44:47.152 [info] [127.0.0.1][04c9a77b][ExtensionHostConnection] <215> Launched Extension Host Process.
+2023-02-17 23:45:01.510 [info] [127.0.0.1][04c9a77b][ExtensionHostConnection] <215> [0mGET /favicon.ico [33m404[0m 1.490 ms - 150[0m
+
+2023-02-17 23:45:07.983 [info] [127.0.0.1][04c9a77b][ExtensionHostConnection] <215> [0mGET /projectPW.html [33m404[0m 0.907 ms - 153[0m
+
+2023-02-18 09:50:44.617 [info] [127.0.0.1][fd776477][ExtensionHostConnection] The client has reconnected.
+2023-02-18 09:50:44.729 [info] [127.0.0.1][04c9a77b][ExtensionHostConnection] The client has reconnected.
+2023-02-18 09:50:44.812 [info] [127.0.0.1][9a381152][ManagementConnection] The client has reconnected.
+2023-02-18 09:50:44.913 [info] [127.0.0.1][6cd3bf0a][ManagementConnection] The client has reconnected.
+2023-02-18 20:48:40.742 [info] [127.0.0.1][04c9a77b][ExtensionHostConnection] The client has reconnected.
+2023-02-18 20:48:40.922 [info] [127.0.0.1][6cd3bf0a][ManagementConnection] The client has reconnected.
+2023-02-18 20:48:41.236 [info] [127.0.0.1][9a381152][ManagementConnection] The client has reconnected.
+2023-02-18 20:49:02.216 [info] [127.0.0.1][fd776477][ExtensionHostConnection] The client has reconnected.

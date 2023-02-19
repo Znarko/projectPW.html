@@ -1,0 +1,21 @@
+2023-02-17 01:18:49.146 [info] Extension host with pid 28910 started
+2023-02-17 01:18:49.158 [info] Lock '/home/franko/.vscode-server/data/User/workspaceStorage/08fa1022b731c969d1da4b10feef974d/vscode.lock': Lock acquired.
+2023-02-17 01:18:49.180 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-17 01:18:49.182 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-17 01:18:49.183 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-02-17 01:18:49.183 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-02-17 01:18:49.213 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-02-17 01:18:49.247 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-17 01:18:49.248 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-17 01:18:49.376 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-17 01:18:49.376 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-17 01:18:49.376 [info] ExtensionService#_doActivateExtension Durzn.brackethighlighter, startup: false, activationEvent: 'onStartupFinished'
+2023-02-17 01:18:49.377 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-02-17 01:18:49.377 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-02-17 01:18:49.377 [info] Eager extensions activated
+2023-02-17 01:19:51.738 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-02-17 01:24:11.133 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-17 01:24:11.133 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-17 01:24:11.473 [info] Extension host terminating: received terminate message from renderer
+2023-02-17 01:24:11.473 [info] Lock '/home/franko/.vscode-server/data/User/workspaceStorage/08fa1022b731c969d1da4b10feef974d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-02-17 01:24:11.501 [info] Extension host with pid 28910 exiting with code 0

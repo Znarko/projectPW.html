@@ -1,0 +1,72 @@
+2023-02-16 22:59:40.497 [info] 
+
+
+
+
+2023-02-16 22:59:40.518 [info] Extension host agent started.
+2023-02-16 22:59:40.597 [info] [127.0.0.1][9a93e416][ManagementConnection] New connection established.
+2023-02-16 22:59:40.913 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] New connection established.
+2023-02-16 22:59:40.916 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] <148> Launched Extension Host Process.
+2023-02-16 23:07:11.819 [info] Getting Manifest... durzn.brackethighlighter
+2023-02-16 23:07:12.107 [info] Installing extension: durzn.brackethighlighter
+2023-02-16 23:07:12.916 [info] Extracted extension to /home/franko/.vscode-server/extensions/.c7e38689-99f9-4209-8c11-2f6bdc821c31: durzn.brackethighlighter
+2023-02-16 23:07:12.921 [info] Renamed to /home/franko/.vscode-server/extensions/durzn.brackethighlighter-2.3.1
+2023-02-16 23:07:12.922 [info] Extracting completed. durzn.brackethighlighter
+2023-02-16 23:07:12.926 [info] Extension installed successfully: durzn.brackethighlighter
+2023-02-16 23:07:15.645 [info] Getting Manifest... chunsen.bracket-select
+2023-02-16 23:07:15.983 [info] Installing extension: chunsen.bracket-select
+2023-02-16 23:07:16.448 [info] Getting Manifest... naumovs.color-highlight
+2023-02-16 23:07:16.549 [info] Installing extension: naumovs.color-highlight
+2023-02-16 23:07:17.335 [info] Getting Manifest... ritwickdey.liveserver
+2023-02-16 23:07:17.392 [info] Installing extension: ritwickdey.liveserver
+2023-02-16 23:07:17.607 [info] Extracted extension to /home/franko/.vscode-server/extensions/.02970b07-a321-46cb-88d2-db9c3bec8448: naumovs.color-highlight
+2023-02-16 23:07:17.612 [info] Renamed to /home/franko/.vscode-server/extensions/naumovs.color-highlight-2.5.0
+2023-02-16 23:07:17.614 [info] Extracting completed. naumovs.color-highlight
+2023-02-16 23:07:17.617 [info] Extension installed successfully: naumovs.color-highlight
+2023-02-16 23:07:18.434 [info] Extension signature verification: chunsen.bracket-select. Verification status: Verified.
+2023-02-16 23:07:18.483 [info] Extracted extension to /home/franko/.vscode-server/extensions/.1454001e-2e8e-4a41-85fc-f5cacc7c97b2: chunsen.bracket-select
+2023-02-16 23:07:18.488 [info] Renamed to /home/franko/.vscode-server/extensions/chunsen.bracket-select-2.0.2
+2023-02-16 23:07:18.490 [info] Extracting completed. chunsen.bracket-select
+2023-02-16 23:07:18.498 [info] Extension installed successfully: chunsen.bracket-select
+2023-02-16 23:07:18.747 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-02-16 23:07:18.867 [info] Installing extension: christian-kohler.path-intellisense
+2023-02-16 23:07:20.643 [info] Extension signature verification: christian-kohler.path-intellisense. Verification status: Verified.
+2023-02-16 23:07:20.693 [info] Extracted extension to /home/franko/.vscode-server/extensions/.b8321eac-29a6-4426-ba6f-50d4c804b83d: christian-kohler.path-intellisense
+2023-02-16 23:07:20.703 [info] Renamed to /home/franko/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4
+2023-02-16 23:07:20.704 [info] Extracting completed. christian-kohler.path-intellisense
+2023-02-16 23:07:20.709 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-02-16 23:07:20.980 [info] Extracted extension to /home/franko/.vscode-server/extensions/.b7274d8d-9e5b-4468-b6d6-cc91a0b09f91: ritwickdey.liveserver
+2023-02-16 23:07:20.988 [info] Renamed to /home/franko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-02-16 23:07:20.989 [info] Extracting completed. ritwickdey.liveserver
+2023-02-16 23:07:20.995 [info] Extension installed successfully: ritwickdey.liveserver
+2023-02-16 23:07:22.827 [info] Getting Manifest... esbenp.prettier-vscode
+2023-02-16 23:07:22.882 [info] Installing extension: esbenp.prettier-vscode
+2023-02-16 23:07:24.488 [info] Extension signature verification: esbenp.prettier-vscode. Verification status: Verified.
+2023-02-16 23:07:24.583 [info] Extracted extension to /home/franko/.vscode-server/extensions/.32e88f6b-e886-41db-8569-79cefc32b2a2: esbenp.prettier-vscode
+2023-02-16 23:07:24.586 [info] Renamed to /home/franko/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4
+2023-02-16 23:07:24.588 [info] Extracting completed. esbenp.prettier-vscode
+2023-02-16 23:07:24.592 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-02-16 23:07:32.408 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] <148> [0mGET /favicon.ico [33m404[0m 1.706 ms - 150[0m
+
+2023-02-16 23:23:38.561 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] <148> [0mGET /favicon.ico [33m404[0m 0.781 ms - 150[0m
+
+2023-02-17 01:18:48.655 [info] [127.0.0.1][165e7b96][ManagementConnection] New connection established.
+2023-02-17 01:18:48.822 [info] [127.0.0.1][d7aa93c0][ExtensionHostConnection] New connection established.
+2023-02-17 01:18:48.827 [info] [127.0.0.1][d7aa93c0][ExtensionHostConnection] <28910> Launched Extension Host Process.
+2023-02-17 01:24:11.473 [info] [127.0.0.1][165e7b96][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-17 01:24:11.506 [info] [127.0.0.1][d7aa93c0][ExtensionHostConnection] <28910> Extension Host Process exited with code: 0, signal: null.
+2023-02-17 01:24:12.629 [info] [127.0.0.1][94f96878][ManagementConnection] New connection established.
+2023-02-17 01:24:12.915 [info] [127.0.0.1][7f8fecba][ExtensionHostConnection] New connection established.
+2023-02-17 01:24:12.920 [info] [127.0.0.1][7f8fecba][ExtensionHostConnection] <29269> Launched Extension Host Process.
+2023-02-17 12:30:56.886 [info] [127.0.0.1][7f8fecba][ExtensionHostConnection] The client has reconnected.
+2023-02-17 12:30:56.979 [info] [127.0.0.1][94f96878][ManagementConnection] The client has reconnected.
+2023-02-17 12:30:57.116 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] The client has reconnected.
+2023-02-17 12:30:57.229 [info] [127.0.0.1][9a93e416][ManagementConnection] The client has reconnected.
+2023-02-17 16:13:01.324 [info] [127.0.0.1][7f8fecba][ExtensionHostConnection] The client has reconnected.
+2023-02-17 16:13:01.407 [info] [127.0.0.1][94f96878][ManagementConnection] The client has reconnected.
+2023-02-17 16:13:01.527 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] The client has reconnected.
+2023-02-17 16:13:01.614 [info] [127.0.0.1][9a93e416][ManagementConnection] The client has reconnected.
+2023-02-17 17:19:48.059 [info] [127.0.0.1][f3b2c389][ExtensionHostConnection] The client has reconnected.
+2023-02-17 17:19:48.155 [info] [127.0.0.1][9a93e416][ManagementConnection] The client has reconnected.
+2023-02-17 17:19:48.262 [info] [127.0.0.1][7f8fecba][ExtensionHostConnection] The client has reconnected.
+2023-02-17 17:19:48.364 [info] [127.0.0.1][94f96878][ManagementConnection] The client has reconnected.

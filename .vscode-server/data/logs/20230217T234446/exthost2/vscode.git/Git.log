@@ -1,0 +1,43 @@
+2023-02-17 23:44:48.170 [info] Log level: Info
+2023-02-17 23:44:48.170 [info] Validating found git in: "git"
+2023-02-17 23:44:48.170 [info] Using git "2.25.1" from "git"
+2023-02-17 23:44:48.170 [info] > git rev-parse --show-toplevel [143ms]
+2023-02-17 23:44:48.170 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.170 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.170 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.177 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.177 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.181 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.181 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.219 [info] > git rev-parse --show-toplevel [34ms]
+2023-02-17 23:44:48.219 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.224 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.224 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.229 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.244 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-17 23:44:48.252 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-02-17 23:44:48.262 [info] Open repository: /home/franko/.nvm
+2023-02-17 23:44:48.272 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-17 23:44:48.272 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.279 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.279 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.286 [info] > git config --get commit.template [14ms]
+2023-02-17 23:44:48.287 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-17 23:44:48.287 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-17 23:44:48.346 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [49ms]
+2023-02-17 23:44:48.392 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2023-02-17 23:44:48.423 [info] > git status -z -uall [72ms]
+2023-02-17 23:44:48.441 [info] > git config --get commit.template [3ms]
+2023-02-17 23:44:48.448 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-02-17 23:44:48.460 [info] > git status -z -uall [7ms]
+2023-02-17 23:44:48.460 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-17 23:44:48.833 [info] > git check-ignore -v -z --stdin [1ms]
+2023-02-18 21:56:41.614 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-18 21:56:41.620 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-02-18 21:56:41.628 [info] Open repository: /home/franko
+2023-02-18 21:56:41.641 [info] No remotes found in the git config file.
+2023-02-18 21:56:41.642 [info] > git config --get commit.template [9ms]
+2023-02-18 21:56:41.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-18 21:56:41.651 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-18 21:56:42.533 [info] > git status -z -uall [886ms] (cancelled)

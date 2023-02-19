@@ -1,0 +1,13 @@
+2023-02-15 23:40:31.542 [info] 
+
+
+
+
+2023-02-15 23:40:31.542 [info] Extension host agent started.
+2023-02-15 23:40:31.577 [info] Started initializing default profile extensions in extensions installation folder. file:///home/franko/.vscode-server/extensions
+2023-02-15 23:40:31.596 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/franko/.vscode-server/extensions
+2023-02-15 23:40:31.725 [info] [127.0.0.1][5aab2b43][ManagementConnection] New connection established.
+2023-02-15 23:40:31.935 [info] [127.0.0.1][1dde2f63][ExtensionHostConnection] New connection established.
+2023-02-15 23:40:31.943 [info] [127.0.0.1][1dde2f63][ExtensionHostConnection] <298> Launched Extension Host Process.
+2023-02-15 23:55:07.694 [info] [127.0.0.1][5aab2b43][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-15 23:55:07.705 [info] [127.0.0.1][1dde2f63][ExtensionHostConnection] <298> Extension Host Process exited with code: 0, signal: null.
